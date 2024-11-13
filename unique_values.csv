@@ -1,0 +1,12 @@
+﻿educacao_mae;ocupacao_mae;tem_empregado_domestico;num_quartos;num_carros;num_computadores;faixa_renda
+Completou o Ensino Médio.;Professor(a), gerente, microempresário(a), trabalhador(a) autônomo(a);Não;Sim, dois;Sim, apenas um carro;Sim, um;De R$ 3.300,01 até R$ 3.960,00
+Completou o 4ª/5º ano.;Diarista, faxineiro(a), porteiro(a), servente de pedreiro, recepcionista;Sim;Sim, um;Não;Não;De R$ 1.320,01 até R$ 1.980,00
+Completou o 8ª/9º ano do Ensino Fundamental.;Cozinheiro(a), costureiro(a), pedreiro(a), motorista, operador de máquina;Sim;Sim, três;Sim, mais de um carro;Sim, dois;De R$ 1.980,01 até R$ 2.640,00
+Completou a Faculdade.;Não sei.;Sim;Sim, quatro ou mais;Sim, mais de um carro;Sim, três;De R$ 3.960,01 até R$ 5.280,00
+Não completou o 4ª/5º ano do Ensino Fundamental.;Médico, engenheiro, advogado, juiz, professor universitário;Sim;Não;Sim, mais de um carro;Sim, quatro ou mais;Até R$ 1.320,00
+Não sei.;Lavrador(a), agricultor(a) sem empregados, pescador;Sim;Não;Sim, mais de um carro;Sim, quatro ou mais;De R$ 2.640,01 até R$ 3.300,00
+Completou a Pós-graduação.;Lavrador(a), agricultor(a) sem empregados, pescador;Sim;Não;Sim, mais de um carro;Sim, quatro ou mais;De R$ 5.280,01 até R$ 6.600,00
+Nunca estudou.;Lavrador(a), agricultor(a) sem empregados, pescador;Sim;Não;Sim, mais de um carro;Sim, quatro ou mais;De R$ 6.600,01 até R$ 7.920,00
+Nunca estudou.;Lavrador(a), agricultor(a) sem empregados, pescador;Sim;Não;Sim, mais de um carro;Sim, quatro ou mais;De R$ 9.240,01 até R$ 10.560,00
+Nunca estudou.;Lavrador(a), agricultor(a) sem empregados, pescador;Sim;Não;Sim, mais de um carro;Sim, quatro ou mais;Acima de R$ 10.560,00
+Nunca estudou.;Lavrador(a), agricultor(a) sem empregados, pescador;Sim;Não;Sim, mais de um carro;Sim, quatro ou mais;De R$ 7.920,01 até R$ 9.240,00
